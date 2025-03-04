@@ -1,0 +1,3 @@
+from binance_websocket.routing import websocket_urlpatterns as binance_websocket_urlpatterns
+
+websocket_urlpatterns = binance_websocket_urlpatterns 
